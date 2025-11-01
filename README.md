@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Ender
 
-<!--
-**xelaym/xelaym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about web development, blockchain, and automation.  
+💡 Always exploring new tools and open-source projects.  
+🌱 Currently learning React, Next.js and Solidity.  
+📫 Reach me: | [Twitter](https://twitter.com/LastCoin_Bender)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React  
+- Backend: Node.js, Express  
+- Blockchain: Solidity, Web3.js  
+- Tools: Git, VSCode, Postman  
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xelaym&show_icons=true&theme=radical)
